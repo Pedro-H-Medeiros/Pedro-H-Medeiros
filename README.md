@@ -4,9 +4,9 @@
 - ⚡ Me divirto resolvendo bugs
 
 <div align="center">
-  <a href="https://github.com/Medeiros-hub">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Medeiros-hub&show_icons=true&theme=tokyonight"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Medeiros-hub&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/Pedro-H-Medeiros">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pedro-H-Medeiros&show_icons=true&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-H-Medeiros&layout=compact&langs_count=7&theme=dark"/>
   </a>
 </div>
 
